@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/DemoScene/Model Scene.unity
     guid: e7129513e10914493a4ddb1e430c243e
   - enabled: 1
+    path: Assets/Lobby.unity
+    guid: 30ce7cb72688048f588b73210e7298d5
+  - enabled: 1
     path: Assets/DayScene.unity
     guid: 415c988e95bef409ca2e6891517fe928
   m_configObjects:
