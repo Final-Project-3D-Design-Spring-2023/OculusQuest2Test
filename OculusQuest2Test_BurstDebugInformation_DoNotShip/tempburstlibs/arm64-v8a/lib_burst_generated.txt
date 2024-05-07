@@ -37,6 +37,7 @@ Library: /Users/dede/Desktop/3D UI projects/OculusQuest2Test/Temp/BurstOutput/te
 --assembly-defines=Unity.XR.OpenXR.Features.MockRuntime;
 --assembly-defines=Unity.XR.OpenXR.Features.OculusQuestSupport;
 --assembly-defines=Unity.XR.OpenXR.Features.RuntimeDebugger;
+--assembly-defines=UnityEngine 2;
 --assembly-defines=UnityEngine;
 --generate-link-xml=Temp/burst.link.xml
 --temp-folder=/Users/dede/Desktop/3D UI projects/OculusQuest2Test/Temp/Burst
@@ -84,6 +85,7 @@ Library: /Users/dede/Desktop/3D UI projects/OculusQuest2Test/Temp/BurstOutput/te
 --assembly-defines=Unity.XR.OpenXR.Features.MockRuntime;
 --assembly-defines=Unity.XR.OpenXR.Features.OculusQuestSupport;
 --assembly-defines=Unity.XR.OpenXR.Features.RuntimeDebugger;
+--assembly-defines=UnityEngine 2;
 --assembly-defines=UnityEngine;
 --generate-link-xml=Temp/burst.link.xml
 --temp-folder=/Users/dede/Desktop/3D UI projects/OculusQuest2Test/Temp/Burst
